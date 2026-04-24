@@ -1,0 +1,6 @@
+# Ignorera konfigurationsfilen med API-nycklar
+config.json
+
+# (Valfritt) Ignorera även Mac/Windows systemfiler om du vill hålla det snyggt
+.DS_Store
+__pycache__/
